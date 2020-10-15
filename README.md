@@ -8,6 +8,6 @@ When to use XGBOOST:
 - Just numerical features
 
 When not to use XGBOOST and use deep learning instead : 
-Image classification
-NLP
+- Image classification
+- NLP
 
